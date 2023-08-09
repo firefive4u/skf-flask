@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.16.7
 
 LABEL maintainer="glenn.ten.cate@owasp.org"
 
